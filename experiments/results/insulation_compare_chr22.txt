@@ -1,0 +1,5 @@
+lateG1 chr22  10000 bp  window=200  insulation_delta=25  n_perm=1000
+Null: circular shift along coverage-masked bins (raw insulation square > 0).
+More negative z is better.
+SpectralTAD      TADs=46   bounds=44   ins_mean=-2.4291  null_mean=-0.7482  z=-5.95  frac_local_min=0.386
+SpectralTAD_TV   TADs=54   bounds=50   ins_mean=-1.8739  null_mean=-0.7478  z=-3.69  frac_local_min=0.120

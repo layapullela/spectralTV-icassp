@@ -1,1 +1,6 @@
 .Rproj.user
+sample_data/
+*.hic
+*.sparse.txt
+.Rhistory
+.RData
