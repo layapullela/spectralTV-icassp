@@ -1,7 +1,0 @@
-lateG1 chr22  10000 bp  window=200  insulation_delta=25  n_perm=1000
-TV params: γ=0.1  λz=0.1  λe=2  μ=1  σ=1  max_iter=50
-Null: circular shift along coverage-masked bins. More negative z is better.
-SpectralTAD                          TADs=46   bounds=44   ins_mean=-2.4291  z=-5.95  frac_local_min=0.386
-SpectralTAD_TV  unscaled λ          TADs=54   bounds=50   ins_mean=-1.8739  z=-3.69  frac_local_min=0.120
-SpectralTAD_TV  λ / σ1(Y)          TADs=48   bounds=46   ins_mean=-1.9791  z=-4.63  frac_local_min=0.413
-TV σ1-scaled runtime: 146.8s

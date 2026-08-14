@@ -4,3 +4,8 @@ sample_data/
 *.sparse.txt
 .Rhistory
 .RData
+experiments/run_tv_le2.R
+experiments/run_spectraltad.R
+experiments/run_kr_compare.R
+experiments/instructions.md
+experiments/results/
